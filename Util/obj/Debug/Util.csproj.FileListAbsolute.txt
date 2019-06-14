@@ -1,0 +1,6 @@
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\bin\Debug\Util.dll
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\bin\Debug\Util.pdb
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\obj\Debug\Util.dll
+c:\users\logatti.fiar\source\repos\ProvaTemaAberto\Util\obj\Debug\Util.pdb
